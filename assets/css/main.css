@@ -1,0 +1,32 @@
+body{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+a{
+  color: gray;
+}
+
+td,th{
+  border: 1px solid rgb(204, 204, 204);
+  padding: 1%;
+}
+
+.bg-gray-low{
+  background-color: rgb(238, 238, 238);
+}
+
+.bg-white{
+  background-color: white;
+}
+
+.bold-600{
+  font-weight: 600;
+}
+
+.padding-2-per{
+  padding: 2%;
+}
+
+.mt-62{
+  margin-top: 62px;
+}
